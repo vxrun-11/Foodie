@@ -1,0 +1,10 @@
+Ice-Cream 60
+Paneer-Soda 30
+Fresh-Juice 50
+Milkshake 70
+Brownie 80
+Gulab-Jamun 50
+Beeda 20
+Lava-Cake 80
+Lassi 40
+Falooda 100

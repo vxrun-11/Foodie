@@ -1,0 +1,10 @@
+Veg-Soup 45
+Chicken-Soup 60
+Dragon-Chicken 150
+Chicken-Dynamite 150
+Pepper-Chicken 150
+Chicken-65 140
+Paneer-Manchurian 100
+Pepper-Paneer 110
+Chilli-Gobi 90
+Paneer-Tikka 125

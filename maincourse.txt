@@ -1,0 +1,10 @@
+Chicken-Biriyani 150
+Mutton-Biriyani 180
+Fried-Rice 120
+Noodles 120
+Veg-Biriyani 125
+Full-meals 100
+Roast-varieties 80
+Chappati 30
+Parotta 35
+Butter-Naan 40
